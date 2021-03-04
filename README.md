@@ -88,7 +88,7 @@ print("{:n}".format(x))  # 1,234,567
 # For Python ≥3.6
 print(f"{x:n}")  # 1,234,567
 ```
-### How to sort a Python dict by value
+### [How to sort a Python dict by value?](https://repl.it/@tphat98/How-to-sort-a-Python-dict-by-value "How to sort a Python dict by value?")
 ```python
 # How to sort a Python dict by value
 # (== get a representation sorted by value)
