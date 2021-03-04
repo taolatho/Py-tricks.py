@@ -125,7 +125,7 @@ print(dict(x, **y))  # {'a': 1, 'b': 3, 'c': 4}
 # in the order listed in the expression, overwriting
 # duplicates from left to right.
 ```
-### Python's namedtuples can be a great alternative to defining a class manually
+### [Python's namedtuples can be a great alternative to defining a class manually](https://repl.it/@tphat98/1 "Python's namedtuples can be a great alternative to defining a class manually")
 ```python
 # Why Python is Great: Namedtuples
 # Using namedtuple is way shorter than
