@@ -168,7 +168,7 @@ print(greeting(2))  # Hi Bob!
 print(greeting(3))  # Hi Dilbert!
 print(greeting(0))  # Hi there!
 ```
-### You can use "json.dumps()" to pretty-print Python dicts
+### [You can use "json.dumps()" to pretty-print Python dicts](https://repl.it/@tphat98/You-can-use-jsondumps-to-pretty-print-Python-dicts "You can use json.dumps() to pretty-print Python dicts")
 ```python
 # The standard string repr for dicts is hard to read:
 my_mapping = {"a": 23, "b": 42, "c": 0xC0FFEE}
