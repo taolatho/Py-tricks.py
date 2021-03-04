@@ -35,7 +35,7 @@ myfunc(*tuple_vec)  # 1 0 1
 
 myfunc(**dict_vec)  # 1 0 1
 ```
-### How to create a countdown timer using Python
+### [How to create a countdown timer using Python?](https://repl.it/@tphat98/How-to-create-a-countdown-timer-using-Python "How to create a countdown timer using Python?")
 ```python
 # import the time module
 import time
