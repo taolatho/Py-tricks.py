@@ -18,7 +18,7 @@ if x or y or z:
 if any((x, y, z)):
     print("passed_4")  # passed_4
 ```
-### Function argument unpacking in Python
+### [Function argument unpacking in Python](https://repl.it/@tphat98/Function-argument-unpacking-in-Python "Function argument unpacking in Python")
 ```python
 # Why Python Is Great:
 # Function argument unpacking
