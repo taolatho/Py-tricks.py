@@ -147,7 +147,7 @@ print(my_car)  # Car(color='red', mileage=3812.4)
 my_car.color = "blue"
 # AttributeError: "can't set attribute"
 ```
-### The get() method on Python dicts and its "default" arg
+### [The get() method on Python dicts and its "default" arg](https://repl.it/@tphat98/The-get-method-on-Python-dicts-and-its-default-arg "The get() method on Python dicts and its "default" arg")
 ```python
 # The get() method on dicts
 # and its "default" argument
