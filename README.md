@@ -105,7 +105,7 @@ print(
     sorted(xs.items(), key=operator.itemgetter(1))
 )  # [('d', 1), ('c', 2), ('b', 3), ('a', 4)]
 ```
-### Merging two dicts in Python 3.5+ with a single expression
+### [Merging two dicts in Python 3.5+ with a single expression](https://repl.it/@tphat98/Merging-two-dicts-in-Python-35-with-a-single-expression "Merging two dicts in Python 3.5+ with a single expression")
 ```python
   
 # How to merge two dictionaries
