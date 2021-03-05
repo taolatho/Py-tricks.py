@@ -189,7 +189,7 @@ print(json.dumps(my_mapping, indent=4, sort_keys=True))
 json.dumps({all: "yup"})
 # TypeError: keys must be a string
 ```
-### [Measure the execution time of small bits of Python code with the "timeit" module](https://repl.it/@tphat98/Timeit-module "Measure the execution time of small bits of Python code with the "timeit" module")
+### [Measure the execution time of small bits of Python code with the "timeit" module](https://repl.it/@tphat98/Timeit-module "Measure the execution time of small bits of Python code with the timeit module")
 ```python
 import timeit
 
