@@ -1,4 +1,4 @@
-# Py-tricks
+# 🐍 Py-tricks
 ### [Different ways to test multiple flags at once in Python](https://repl.it/@tphat98/Different-ways-to-test-multiple-flags-at-once-in-Python "Different ways to test multiple flags at once in Python")
 ```python
 # Different ways to test multiple
