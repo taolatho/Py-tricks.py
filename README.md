@@ -108,7 +108,6 @@ print(
 ```
 ### [Merging two dicts in Python 3.5+ with a single expression](https://repl.it/@tphat98/Merging-two-dicts-in-Python-35-with-a-single-expression "Merging two dicts in Python 3.5+ with a single expression")
 ```python
-  
 # How to merge two dictionaries
 # in Python 3.5+
 
